@@ -27,7 +27,7 @@ Feel free to go through other lectures if needed.
 
 These talks should give you decent ammo to start formulating some architectures yourself. 
 
-## <a name 'basics'>Basics</a>
+## <a name='basics'>Basics</a>
 
 But before you begin, here are some topics(in no particular order) which in my opinion you should have a decent idea of before proceeding.
 
