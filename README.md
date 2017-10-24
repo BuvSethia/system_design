@@ -142,4 +142,4 @@ Depending on where you are interviewing, go through the company blog . VERY USEF
  7. CDN 
  8. Monetization
 
-Best of luck :+1:, feel free to send pull requests to add more content to this git! Will be updating it from time to time.
+Best of luck, feel free to send pull requests to add more content to this git! Will be updating it from time to time.
